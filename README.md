@@ -1,2 +1,2 @@
 # testrepo
-This is my new repository for IBM data science LAB purpose
+This is my new repository for IBM Data Science LAB purpose
